@@ -47,5 +47,7 @@ print('Olá Mundo!', 'Meu nome é {}!' . format(input('Digite seu nome:')));
 
 # EXERCICIO>Calculadora de IMC (CAlculo_imc.pt)
 
+# repetir frase > alt + shift + seta para baixo
+
 
 

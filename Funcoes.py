@@ -7,9 +7,9 @@ def Somar(a,b):
     print(f'Soma: {a}+{b}={a+b}')
 
 def Substrair(a,b):
-    try:
+    try: # tenta fazer o calculo
         print(f'Substrair: {a}-{b}={a-b}')
-    except: 
+    except:  # se erro aparecer
         print('Erro desconhecido')
 def Multiplicar(a,b):
      try:
